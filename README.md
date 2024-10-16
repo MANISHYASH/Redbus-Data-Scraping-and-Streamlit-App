@@ -22,13 +22,6 @@ The project focuses on extracting the following data points from the Redbus webs
 
 Tools and Technologies
 ----------------------
-- ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-- ![Selenium Icon](https://upload.wikimedia.org/wikipedia/commons/6/6f/Selenium_logo.png) **Selenium**
-- ![XAMPP Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/XAMPP_Logo.svg/512px-XAMPP_Logo.svg.png) **XAMPP**
-- ![MySQL Icon](https://upload.wikimedia.org/wikipedia/en/6/67/MySQL_logo.svg) **MySQL**
-- ![Streamlit Icon](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg) **Streamlit**
-- ![Pandas Icon](https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.svg) **Pandas**
-
 The project utilizes the following tools and technologies:
 - Web Scraping: Selenium (for automating browser actions and extracting data)
 - Data Storage: Pandas (for storing data in a structured format, e.g., CSV)
