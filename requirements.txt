@@ -1,0 +1,6 @@
+selenium
+streamlit
+pandas
+mysql-connector-python
+requests
+numpy
